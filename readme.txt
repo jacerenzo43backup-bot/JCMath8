@@ -1,1 +1,0 @@
-JCMath v3.4 - includes your games. Open index.html in Safari and Add to Home Screen.
